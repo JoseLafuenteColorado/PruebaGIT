@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <rss version="2.0">
+        <channel>
+            <title>Audiófilos pobres</title>
+            <link>enlace a GitHub Pages</link>
+            <description>Para aquellos que nos gusta"cacharrear" con el sonido</description>
+            <image>https://i0.wp.com/terminosaudiovisuales.es/wp-content/uploads/alta-fidelidad.jpg?w=811&ssl=1</image>
+            <category>Headphones</category>
+            <copyright>JLafuente, S.L.</copyright>
+            <language>es-es</language>
+            <lastBuildDate>pubDate</lastBuildDate>
+            <skipDays>
+                <day>Saturday</day>
+                <day>Sunday</day>
+            </skipDays>            
+            <skipHours>
+                <hour>0</hour>
+                <hour>1</hour>
+                <hour>2</hour>
+                <hour>3</hour>
+                <hour>4</hour>
+                <hour>5</hour>
+            </skipHours>
+            <webMaster>a21lacojo@iesgrancapitan.org</webMaster>
+
+            <item>
+            <title>Audio-Technica y la madera de arce en los nuevos ATH-WP900</title>
+            <link>https://eloutput.com/noticias/imagen-sonido/audio-technica-ath-wp900/</link>
+            <description>Audio-Technica ha lanzado unos nuevos auriculares pensados para audiófilos y además de la mejor calidad de sonido también quieren conquistar por el apartado estético. De ahí su particular diseño con acabado den madera de arce. Estos son los nuevos Audio-Technica ATH-WP900.</description>
+            <author>Pedro Santamaría</author>
+            <pubDate> 03/02/2022</pubDate>
+            <enclosure url="https://eloutput.com/app/uploads-eloutput.com/2021/02/ATH-WP900-930x487.jpg" length="16000" type="imagen/jpg">              
+            </item>
+
+            <item>
+            <title>Conrad-Johnson ART108A</title>
+            <link>https://hifilivemagazine.com/conrad-johnson-art108a/</link>
+            <description>El nuevo ART108A de Conrad-Johnson ($48,000 por par) es un amplificador de potencia mono en clase A que entrega 160 W en modo triodo (a 4 ohmios; opcionalmente está disponible para cargas de 8 o 16 ohmios) a través de cuatro pares de válvulas de salida KT88. El amplificador tiene fuentes de alimentación reguladas independientes para la etapa de salida, así como para las etapas de entrada e inversor. Conrad-Johnson cita el «circuito intrínsecamente simple» del ART108A –tres etapas de triodo, con triodos compuestos (que consisten en triodos paralelos)– por su «musicalidad excepcional».</description>
+            <author>hifilivemagazine.com</author>
+            <pubDate> 09/02/2022</pubDate>
+            <enclosure url="https://hifilivemagazine.com/wp-content/uploads/2022/02/Conrad-Johnson-ART108A.jpeg" length="125400" type="imagen/jpg">              
+            </item>
+
+            <item>
+            <title>Sonus Faber – SE17</title>
+            <link>https://audioelite.co/product/sonus-faber-se17/</link>
+            <description>El «NON PLUS ULTRA» De un sueño: Lo último en reproducción de sonido
+            Fue diseñado para ser la mejor representación de los ideales, legado y visión de Sonus Faber.
+
+            UNA OBRA MAESTRA REVISADA
+            El Sonus Faber SE2017 es una versión de edición limitada de esta obra maestra disponible solo a pedido especial. Esta nueva revisión fuera del menú presenta una revisión completa con los últimos desarrollos de la marca italiana en tecnologías de controladores y crossover. Se beneficia del conocimiento más actual y de los mejores componentes disponibles en el mundo.
+
+            ENTRE INSPIRACIÓN Y FUNCIONALIDAD
+            “Sonus faber es un sueño de pura pasión. La investigación es la esencia de la empresa. El enfoque es científico, pero los objetivos son las emociones y la música. El Sonus faber SE17 es el non plus ultra de nuestro sueño. Un concentrado de experiencia, intuiciones, trabajo duro y diseño. eso encuentra su significado en hacer que la música sea más vívida, natural y cautivadora ”.
+            Paolo Tezzon, Gerente de Investigación y Desarrollo de Sonus faber.
+
+            CARACTERÍSTICAS
+            Innumerables horas de trabajo, varios años de desarrollo y las tecnologías más avanzadas fueron vertidas en él. El resultado fue una belleza más allá de lo esperado, una exquisita expresión de rica tradición e innovación de vanguardia.</description>
+            <author>audioelite.co</author>
+            <pubDate> 18/02/2022</pubDate>
+            <enclosure url="https://audioelite.co/wp-content/uploads/2020/04/Audio-Elite-Sonus-Faber-SE17-Angled.jpg" length="70000" type="imagen/jpg">              
+            </item>
+
+            <item>
+            <title>La búsqueda del Sonido perfecto</title>
+            <link>https://www.technics.com/es/technics-aprender/technics/la-busqueda-del-sonido-perfecto.html</link>
+            <description>Conjuntos Technics para todos los Audiófilos
+
+            ¿Estás buscando el sistema de audio perfecto para tí?
+            Si quieres renovar tu equipo, invertir en tu primer sistema de audio de calidad superior o disfrutar de lo mejor del mundo digital y analógico, Technics te propone conjuntos adaptados a tu perfil. Te presentamos 4 kits de productos para que, como amante del sonido, disfrutes de la mejor experiencia sonora.
+            Descubre el conjunto que más se adapta a tus necesidades.</description>
+
+            <author>www.technics.com</author>
+            <pubDate> 18/02/2022</pubDate>
+            <enclosure url=https://www.technics.com/content/dam/pim/es/es/SL/SL-100/SL-1000R/ast-1242949.png.pub.crop.pc.thumb.640.1200.png length="70000" type="imagen/">              
+            </item>
+
+
+
+
+
+
+        </channel>
+    </rss>
