@@ -4,7 +4,11 @@
             <title>Audiófilos pobres</title>
             <link>https://joselafuentecolorado.github.io/PruebaGIT/Audiofilos_JLC.rss</link>
             <description>Para aquellos que nos gusta"cacharrear" con el sonido</description>
-            <image>https://i0.wp.com/terminosaudiovisuales.es/wp-content/uploads/alta-fidelidad.jpg</image>
+            <image>
+            <url>https://i0.wp.com/terminosaudiovisuales.es/wp-content/uploads/alta-fidelidad.jpg</url>
+            <title>Nuestros cacharros</titel>
+            <link>https://joselafuentecolorado.github.io/PruebaGIT/Audiofilos_JLC.rss</link>
+            </image>
             <category>Headphones</category>
             <copyright>JLafuente, S.L.</copyright>
             <language>es-es</language>
