@@ -1,33 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"
-    xml:lang="es"
-    xml:base="https://joselafuentecolorado.github.io/PruebaGIT/Audiofilos_JLC.xml">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://joselafuentecolorado.github.io/PruebaGIT/Audiofilos_JLC.xml">
 
-<title>Audiófilos pobres</title>
-<link href="http://ejemplo.org/"/>
-<updated>2022-02-22T18:30:02Z</updated>
-<author>
-    <name>José Lafuente</name>
-</author>
-<id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+    <title>Audiófilos pobres</title>
+    <link href="https://joselafuentecolorado.github.io/PruebaGIT/Audiofilos_JLC.xml"/>
+    <updated>2022-02-22T18:30:02Z</updated>
+    <author>
+        <name>José Lafuente</name>
+    </author>
+    <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
 
-<entry>
-    <title>Título de la entrada</title>
-    <link href="http://ejemplo.org/2020/12/13/atom03"/>
-    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
-    <updated>2020-12-13T18:30:02Z</updated>
-    <summary>Algún texto resumen.</summary>
-</entry>
-
-
-
-
-
-
-
-
-
-
+    <entry>
+        <title>Audio-Technica y la madera de arce en los nuevos ATH-WP900</title>
+        <link href="https://eloutput.com/noticias/imagen-sonido/audio-technica-ath-wp900" />
+        <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+        <updated>2020-12-13T18:30:02Z</updated>
+        <summary>Audio-Technica ha lanzado unos nuevos auriculares pensados para audiófilos y además de la mejor calidad de sonido también quieren conquistar por el apartado estético. De ahí su particular diseño con acabado den madera de arce. Estos son los nuevos Audio-Technica ATH-WP900.</summary>
+    </entry>
 
 
 </feed>
