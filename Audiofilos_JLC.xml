@@ -2,19 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://joselafuentecolorado.github.io/PruebaGIT/Audiofilos_JLC.xml">
 
     <title>Audiófilos pobres</title>
-    <link href="https://joselafuentecolorado.github.io/PruebaGIT/Audiofilos_JLC.xml"/>
+    <link href="https://joselafuentecolorado.github.io/PruebaGIT/Audiofilos_JLC.xml" />
     <updated>2022-02-22T18:30:02Z</updated>
     <author>
         <name>José Lafuente</name>
     </author>
-    <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+    <id>123456789</id>
 
     <entry>
         <title>Audio-Technica y la madera de arce en los nuevos ATH-WP900</title>
         <link href="https://eloutput.com/noticias/imagen-sonido/audio-technica-ath-wp900" />
-        <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+        <id>7777</id>
         <updated>2020-12-13T18:30:02Z</updated>
         <summary>Audio-Technica ha lanzado unos nuevos auriculares pensados para audiófilos y además de la mejor calidad de sonido también quieren conquistar por el apartado estético. De ahí su particular diseño con acabado den madera de arce. Estos son los nuevos Audio-Technica ATH-WP900.</summary>
+    </entry>
+
+    <entry>
+        <title>Sonus Faber – SE17</title>
+        <link href="https://audioelite.co/product/sonus-faber-se17/"></link>
+        <id>8888</id>
+        <updated>2020-12-13T18:30:02Z</updated>
+        <sumary>El «NON PLUS ULTRA» De un sueño: Lo último en reproducción de sonido
+            Fue diseñado para ser la mejor representación de los ideales, legado y visión de Sonus Faber.
+
+            UNA OBRA MAESTRA REVISADA
+            El Sonus Faber SE2017 es una versión de edición limitada de esta obra maestra disponible solo a pedido especial. Esta nueva revisión fuera del menú presenta una revisión completa con los últimos desarrollos de la marca italiana en tecnologías de controladores y crossover. Se beneficia del conocimiento más actual y de los mejores componentes disponibles en el mundo.
+
+            ENTRE INSPIRACIÓN Y FUNCIONALIDAD
+            “Sonus faber es un sueño de pura pasión. La investigación es la esencia de la empresa. El enfoque es científico, pero los objetivos son las emociones y la música. El Sonus faber SE17 es el non plus ultra de nuestro sueño. Un concentrado de experiencia, intuiciones, trabajo duro y diseño. eso encuentra su significado en hacer que la música sea más vívida, natural y cautivadora ”.
+            Paolo Tezzon, Gerente de Investigación y Desarrollo de Sonus faber.
+
+            CARACTERÍSTICAS
+            Innumerables horas de trabajo, varios años de desarrollo y las tecnologías más avanzadas fueron vertidas en él. El resultado fue una belleza más allá de lo esperado, una exquisita expresión de rica tradición e innovación de vanguardia.</sumary>
+
+    </entry>
+
+    <entry>
+        <title>Conrad-Johnson ART108A</title>
+        <link href="https://hifilivemagazine.com/conrad-johnson-art108a/"></link>
+        <id>9999</id>
+        <updated>2022-02-24T18:30:02Z</updated>
+        <sumary>El nuevo ART108A de Conrad-Johnson ($48,000 por par) es un amplificador de potencia mono en clase A que entrega 160 W en       modo triodo (a 4 ohmios; opcionalmente está disponible para cargas de 8 o 16 ohmios) a través de cuatro pares de válvulas     de salida KT88. El amplificador tiene fuentes de alimentación reguladas independientes para la etapa de salida, así como para las etapas de entrada e inversor. Conrad-Johnson cita el «circuito intrínsecamente simple» del ART108A –tres etapas de triodo, con triodos compuestos (que consisten en triodos paralelos)– por su «musicalidad excepcional»</sumary>
+
+    </entry>
+
+    <entry>
+        <title>La búsqueda del Sonido perfecto</title>
+        <link href="https://www.technics.com/es/technics-aprender/technics/la-busqueda-del-sonido-perfecto.html"></link>
+        <id>2222</id>
+        <updated>2022-02-24T18:30:02Z</updated>
+        <sumary> ¿Estás buscando el sistema de audio perfecto para tí?
+            Si quieres renovar tu equipo, invertir en tu primer sistema de audio de calidad superior o disfrutar de lo mejor del mundo digital y analógico, Technics te propone conjuntos adaptados a tu perfil. Te presentamos 4 kits de productos para que, como amante del sonido, disfrutes de la mejor experiencia sonora.
+            Descubre el conjunto que más se adapta a tus necesidades.</sumary>
     </entry>
 
 
